@@ -11,7 +11,7 @@ pygame.init()
 screen = pygame.display.set_mode((600, 600))
 clock = pygame.time.Clock()
 
-icon = pygame.image.load("retard.jpeg")
+icon = pygame.image.load("factory.png")
 #loads image
 
 pygame.display.set_icon(icon)
